@@ -13,13 +13,13 @@ local CONFIG = {
     Version = "v1.0.0",
 
     -- Lootlabs: link "Get Key" yang buka di browser
-    LootlabsURL = "https://loot-link.com/s?GANTI_DENGAN_MILIKMU",
+    LootlabsURL = "https://links.lootlabs.gg/s?1Q3QoHte",
 
     -- Daftar key valid (via GitHub raw)
     KeysURL = "https://raw.githubusercontent.com/ZurraOfficial/Hallwayz/main/keys.txt",
 
     -- Discord invite
-    DiscordURL = "https://discord.gg/GANTI_INVITE_KAMU",
+    DiscordURL = "https://discord.gg/wallzyq",
 
     -- Kalau true, key akan diikat ke HWID (1 key = 1 device)
     UseHWID = false,

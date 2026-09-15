@@ -9,7 +9,7 @@
 -- ============================================================
 local CONFIG = {
     Name = "Hallwayz",
-    Subtitle = "Steal an Egg",
+    Subtitle = "by Maverick",
     Version = "v1.0.0",
 
     -- Lootlabs: link "Get Key" yang buka di browser
